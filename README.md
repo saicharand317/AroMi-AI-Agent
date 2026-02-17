@@ -1,1 +1,1 @@
-# TEAM-AURA
+# AroMi AI Agent
